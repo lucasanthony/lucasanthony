@@ -33,3 +33,7 @@ I'm a database lover, back-end developer, currently member of [CodeX Jr](http://
 
 #### ⚡ Fun fact: ...
 [Lost](https://www.themoviedb.org/tv/4607-lost?language=pt-BR) lover (judge me) and underrated (overrated too) [horror movies](https://docs.google.com/spreadsheets/d/1qs2JzKNdgmMc2meXF6jhdVgQui4TRfQjsPMlnccPBAE/edit#gid=0) fan.
+
+<a href="https://grupoanga.com/">
+  <img src="https://drive.google.com/uc?id=1Z0tya4SVnTLrWN5emtVUoL8kMA6a-QdT" alt="Instagram" width="140" height="100">
+</a>
