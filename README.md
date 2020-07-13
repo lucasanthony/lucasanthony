@@ -22,8 +22,9 @@ I'm a database lover, back-end developer, currently member of [CodeX Jr](http://
 * SQL and NoSQL
 * Back-end stuff
 
-#### ⚡ Fun fact: ...
-* [Lost](https://www.themoviedb.org/tv/4607-lost?language=pt-BR) lover (judge me) and underrated (overrated too) [horror movies](https://docs.google.com/spreadsheets/d/1qs2JzKNdgmMc2meXF6jhdVgQui4TRfQjsPMlnccPBAE/edit#gid=0) fan.
+#### ⚡ About me: ...
+* [Lost](https://www.themoviedb.org/tv/4607-lost?language=pt-BR) lover (judge me)
+* Underrated (overrated too) [horror movies](https://docs.google.com/spreadsheets/d/1qs2JzKNdgmMc2meXF6jhdVgQui4TRfQjsPMlnccPBAE/edit#gid=0) fan.
 
 #### 📫 How to reach me: ...
 <a href="http://linkedin.com/in/lucasanthony40">
