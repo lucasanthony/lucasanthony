@@ -22,6 +22,9 @@ I'm a database lover, back-end developer, currently member of [CodeX Jr](http://
 * SQL and NoSQL
 * Back-end stuff
 
+#### ⚡ Fun fact: ...
+[Lost](https://www.themoviedb.org/tv/4607-lost?language=pt-BR) lover (judge me) and underrated (overrated too) [horror movies](https://docs.google.com/spreadsheets/d/1qs2JzKNdgmMc2meXF6jhdVgQui4TRfQjsPMlnccPBAE/edit#gid=0) fan.
+
 #### 📫 How to reach me: ...
 <a href="http://linkedin.com/in/lucasanthony40">
   <img src="https://www.cebri.org/site/img/icone-linkedin.png" alt="LinkedIn" width="40" height="40">
@@ -30,9 +33,6 @@ I'm a database lover, back-end developer, currently member of [CodeX Jr](http://
 <a href="http://instagram.com/lucasanthony40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" alt="Instagram" width="40" height="40">
 </a>
-
-#### ⚡ Fun fact: ...
-[Lost](https://www.themoviedb.org/tv/4607-lost?language=pt-BR) lover (judge me) and underrated (overrated too) [horror movies](https://docs.google.com/spreadsheets/d/1qs2JzKNdgmMc2meXF6jhdVgQui4TRfQjsPMlnccPBAE/edit#gid=0) fan.
 
 <a href="https://grupoanga.com/">
   <img src="https://drive.google.com/uc?id=1Z0tya4SVnTLrWN5emtVUoL8kMA6a-QdT" alt="Clique e conheça" width="140" height="100">
