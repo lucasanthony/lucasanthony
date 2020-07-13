@@ -34,7 +34,7 @@ I'm a database lover, back-end developer, currently member of [CodeX Jr](http://
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" alt="Instagram" width="40" height="40">
 </a>
 
-#### Causes: ...
+#### :hash: Causes: ...
 <a href="https://grupoanga.com/">
   <img src="https://drive.google.com/uc?id=1Z0tya4SVnTLrWN5emtVUoL8kMA6a-QdT" alt="Clique e conheça" width="140" height="100">
 </a>
