@@ -9,6 +9,7 @@ I'm a database lover, back-end developer, currently member of [CodeX Jr](http://
 * Tests on spring boot project
 
 #### 🌱 I’m currently learning ...
+* HTML + CSS
 * Socket.io library
 
 #### 🤔 I’m looking for help with ...
