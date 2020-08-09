@@ -3,7 +3,7 @@
 I'm a database lover, back-end developer, currently member of [CodeX Jr](http://www.codexjr.com.br) and computer science student at Federal University of Campina Grande
 
 <a href="http://linkedin.com/in/lucasanthony40" align="right">
-  <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1596995015242.png" width="300" height="400" align="right">
+  <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1596995015242.png" width="270" height="350" align="right">
 </a>
 
 #### 🔭 I’m currently working on ...
@@ -21,14 +21,18 @@ I'm a database lover, back-end developer, currently member of [CodeX Jr](http://
 * Docker
 * Payment methods for nodejs project
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=lucasanthony&count_private=true&show_icons=true&theme=dracula" />
+</a>
+
 #### 💬 Ask me about 
 * NodeJS
 * Spring Boot
 * SQL and NoSQL
 * Back-end stuff
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=lucasanthony&count_private=true&show_icons=true&theme=dracula" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasanthony&layout=compact&theme=dracula" />
 </a>
 
 #### ⚡ About me: ...
@@ -42,10 +46,6 @@ I'm a database lover, back-end developer, currently member of [CodeX Jr](http://
 
 <a href="http://instagram.com/lucasanthony40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" alt="Instagram" width="40" height="40">
-</a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasanthony&layout=compact&theme=dracula" />
 </a>
 
 #### :hash: Causes: ...
