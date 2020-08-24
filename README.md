@@ -19,15 +19,15 @@ I'm a database lover, back-end developer, currently member of [CodeX Jr](http://
 * Cloud computing
 * Docker
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=lucasanthony&count_private=true&show_icons=true&theme=dracula" />
+</a>
+
 #### 💬 Ask me about 
 * NodeJS
 * Spring Boot
 * SQL and NoSQL
 * Back-end stuff
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=lucasanthony&count_private=true&show_icons=true&theme=dracula" />
-</a>
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasanthony&layout=compact&theme=dracula" />
