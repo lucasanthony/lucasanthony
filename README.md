@@ -14,6 +14,7 @@ I'm a database lover, back-end developer, currently member of [CodeX Jr](http://
 
 #### 🌱 I’m currently learning ...
 * ReactJs
+* Typescript
 
 #### 🤔 I’m looking for help with ...
 * Cloud computing
