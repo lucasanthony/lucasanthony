@@ -1,6 +1,6 @@
 ### Welcome, my friend 👋
 
-I'm a database lover, back-end developer, currently member of [CodeX Jr](http://www.codexjr.com.br) and computer science student at Federal University of Campina Grande
+I'm a database lover, fullstack developer, currently member of [CodeX Jr](http://www.codexjr.com.br) and computer science student at Federal University of Campina Grande
 
 <a href="http://linkedin.com/in/lucasanthony40" align="right">
   <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1596995015242.png" width="270" height="350" align="right">
@@ -11,9 +11,9 @@ I'm a database lover, back-end developer, currently member of [CodeX Jr](http://
 * Spring Boot project
 * Tests on nodejs project using Mocha+Chai
 * Tests on spring boot project
+* React projects
 
 #### 🌱 I’m currently learning ...
-* ReactJs
 * Typescript
 
 #### 🤔 I’m looking for help with ...
@@ -28,7 +28,8 @@ I'm a database lover, back-end developer, currently member of [CodeX Jr](http://
 * NodeJS
 * Spring Boot
 * SQL and NoSQL
-* Back-end stuff
+* Backend stuff
+* Frontend stuff
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasanthony&layout=compact&theme=dracula" />
