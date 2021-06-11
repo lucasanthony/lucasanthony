@@ -14,7 +14,8 @@ I'm a database lover, fullstack developer, currently member of [CodeX Jr](http:/
 * React projects
 
 #### 🌱 I’m currently learning ...
-* Typescript
+* Vue
+* Pug
 
 #### 🤔 I’m looking for help with ...
 * Cloud computing
