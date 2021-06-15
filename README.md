@@ -3,7 +3,7 @@
 I'm a database lover, fullstack developer, currently member of [CodeX Jr](http://www.codexjr.com.br) and computer science student at Federal University of Campina Grande
 
 <a href="http://linkedin.com/in/lucasanthony40" align="right">
-  <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1596995015242.png" width="270" height="350" align="right">
+  <img src="https://raw.githubusercontent.com/lucasanthony/lucasanthony/master/my-octocat-1596995015242-removebg-preview.png" width="270" height="350" align="right">
 </a>
 
 #### 🔭 I’m currently working on ...
