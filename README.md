@@ -38,7 +38,7 @@ I'm a database lover, fullstack developer, currently member of [CodeX Jr](http:/
 
 #### ⚡ About me: ...
 * [Lost](https://www.themoviedb.org/tv/4607-lost?language=pt-BR) lover (judge me)
-* Underrated (overrated too) [horror movies](https://docs.google.com/spreadsheets/d/1qs2JzKNdgmMc2meXF6jhdVgQui4TRfQjsPMlnccPBAE/edit#gid=0) fan.
+* Underrated (overrated too) [horror movies](https://letterboxd.com/lucasanthony/list/horror/) fan.
 
 #### 📫 How to reach me: ...
 <a href="http://linkedin.com/in/lucasanthony40">
