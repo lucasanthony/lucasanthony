@@ -10,8 +10,8 @@ I'm a database lover, fullstack developer, currently member of [CodeX Jr](http:/
 * NodeJs projects
 * Spring Boot project
 * Tests on nodejs project using Mocha+Chai
-* Tests on spring boot project
 * React projects
+* Vue project
 
 #### 🌱 I’m currently learning ...
 * Vue
