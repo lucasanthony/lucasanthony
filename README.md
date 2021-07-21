@@ -71,7 +71,7 @@ I'm a database lover, fullstack developer, currently member of [CodeX Jr](http:/
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasanthony&layout=compact&theme=dark" />
+  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasanthony&layout=compact&theme=dark" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
