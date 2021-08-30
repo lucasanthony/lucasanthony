@@ -36,6 +36,9 @@ I'm a database lover, fullstack developer, currently member of [CodeX Jr](http:/
 <a href="http://letterboxd.com/lucasanthony" align="right">
  <img src="https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white" />
 </a>
+<a href="http://letterboxd.com/lucasanthony" align="right">
+ <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
+</a>
 
 #### 🌱 I’m currently learning ...
 <a href="http://letterboxd.com/lucasanthony" align="right">
